@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ElliotH8
+- 👀 I’m interested in machine learning and astrophysics.
+- 🌱 I’m currently learning natural language processing.
